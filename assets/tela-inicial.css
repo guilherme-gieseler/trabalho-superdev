@@ -1,0 +1,159 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/622/48/desktop-wallpaper-minecraft-backgrounds-group-minecraft-world-backgrounds.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+header{
+    padding: auto;
+}
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#img-top{
+    margin-left:700px;
+    width: 900px;
+    height: auto;
+}
+
+h1{
+    font-family: Minecraft;
+    font-size: 50px;
+    color: #fff;
+}
+
+.link-sem-sublinhado{
+    text-decoration: none;
+}
+
+.botao1{
+    width: auto;
+    height: auto;
+    box-sizing: border-box;
+    justify-content: center;
+    align-content: ;
+    align-content: space-between;    
+    display: flex;
+}
+#bt1{
+    font-family: MC Ten Lowercase Alt;
+    justify-content: center;
+    align-content: ;
+    align-content: space-between;
+    display: flex;
+    margin-top: px;
+    min-width: 350px;
+    font-size: 30px;
+    text-align: center;
+    padding: 0 0 5px 0;
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    border: none;
+}
+#bt2{
+    font-family: MC Ten Lowercase Alt;
+    justify-content: center;
+    align-content: ;
+    align-content: space-between;
+    display: flex;
+    margin-top: 20px;
+    min-width: 350px;
+    font-size: 30px;
+    text-align: center;
+    padding: 0 0 5px 0;
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    border: none;
+}
+
+.botao2{
+    box-sizing: border-box;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+   
+}
+#bt3{
+    font-family: MC Ten Lowercase Alt;
+    font-size: 20px;
+    text-align: center;
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    padding: 0 0 5px 0;
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    border: none;
+}
+#bt4{
+    font-family: MC Ten Lowercase Alt;
+    font-size: 20px;
+    text-align: center;
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    margin-right: 600px;
+    padding: 0 0 5px 0;
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    border: none;   
+}
+#bt5{
+    font-size: 26px;
+    text-align: center;
+    min-width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    margin-left: 600px;
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+}
+
+footer{
+    font-family: MC Ten Lowercase Alt;
+    color: #D9D9D9;
+}
+.roda-pe{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-top: 110px;
+    justify-content: space-between;
+}
+#p1{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10px;
+}
+#p2{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
