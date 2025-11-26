@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(https://i.pinimg.com/736x/32/91/94/329194203855d02ce008ad6641815b1d.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'MC Ten Lowercase Alt', sans-serif;
+    color: #fff;
+}
+
+
+.menu{
+    width: 100%;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+
+.menu h1{
+    font-size: 45px;
+    margin-bottom: 3rem;
+    text-shadow: 3px 3px #000;
+}
+
+
+.botao{
+    display: block;
+    margin: 1rem auto;
+    width: 22rem;
+    padding: 10px 0;
+    font-size: 22px;
+    background-color: #000;
+    opacity: 0.55;
+    border: 2px solid #777;
+    color: #fff;
+    font-family: 'MC Ten Lowercase Alt', sans-serif;
+    cursor: pointer;
+}
+
+.botao:hover {
+    opacity: 0.75;
+}
