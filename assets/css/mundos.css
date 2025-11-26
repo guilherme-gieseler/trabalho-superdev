@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     background-image: url(https://i.pinimg.com/736x/32/91/94/329194203855d02ce008ad6641815b1d.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -12,15 +12,16 @@ body{
     background-position: center;
 }
 
-header{
+header {
     font-family: MC Ten Lowercase Alt;
     font-size: 40px;
     text-align: center;
-    color: #D9D9D9;
-    
+    color: #FFFAF0;
+    ;
+
 }
 
-.quadro{
+.quadro {
     background-color: #000;
     margin-top: 90px;
     width: 100%;
@@ -29,21 +30,27 @@ header{
     opacity: 0.7;
 }
 
-.link-sem-sublinhado{
+.link-sem-sublinhado {
     text-decoration: none;
-    color: #000;
+    color: #FFFAF0;
 }
 
-.botao1{
+button {
+    background-color: #000;
+    opacity: 0.5;
+}
+
+.botao1 {
     margin-top: 20px;
     width: auto;
     height: auto;
     box-sizing: border-box;
     justify-content: center;
-    align-content: space-between;    
+    align-content: space-between;
     display: flex;
 }
-#bt1{
+
+#bt1 {
     font-family: MC Ten Lowercase Alt;
     font-size: 25px;
     min-width: 500px;
@@ -52,13 +59,14 @@ header{
     align-content: space-between;
     display: flex;
     text-align: center;
-    background-color: #D9D9D9;
+    color: #FFFAF0;
     border-radius: 5px;
     border: none;
     margin-right: 50px;
-    
+
 }
-#bt2{
+
+#bt2 {
     font-family: MC Ten Lowercase Alt;
     font-size: 25px;
     min-width: 500px;
@@ -67,13 +75,13 @@ header{
     align-content: space-evenly;
     display: flex;
     text-align: center;
-    background-color: #D9D9D9;
+    color: #FFFAF0;
     border-radius: 5px;
     border: none;
     margin-left: 50px;
 }
 
-.botao2{
+.botao2 {
     margin-top: 20px;
     justify-content: center;
     display: flex;
@@ -84,7 +92,8 @@ header{
     margin-left: auto;
 
 }
-#bt3{
+
+#bt3 {
     font-family: MC Ten Lowercase Alt;
     font-size: 25px;
     min-width: 200px;
@@ -94,9 +103,10 @@ header{
     padding: 0 0 5px 0;
     margin-right: 100px;
     margin-left: ;
-   
+    color: #FFFAF0
 }
-#bt4{
+
+#bt4 {
     font-family: MC Ten Lowercase Alt;
     font-size: 25px;
     min-width: 200px;
@@ -105,9 +115,10 @@ header{
     padding: 0 0 5px 0;
     margin-right: 50px;
     margin-left: px;
-    
+    color: #FFFAF0
 }
-#bt5{
+
+#bt5 {
     font-family: MC Ten Lowercase Alt;
     font-size: 25px;
     min-width: 200px;
@@ -116,8 +127,10 @@ header{
     padding: 0 0 5px 0;
     margin-right: px;
     margin-left: 50px;
-}   
-#bt6{
+    color: #FFFAF0
+}
+
+#bt6 {
     font-family: MC Ten Lowercase Alt;
     font-size: 25px;
     min-width: 200px;
@@ -126,4 +139,5 @@ header{
     padding: 0 0 5px 0;
     margin-right: ;
     margin-left: 100px;
+    color: #FFFAF0
 }
