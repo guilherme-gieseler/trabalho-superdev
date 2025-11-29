@@ -69,3 +69,7 @@ body {
 .btn-voltar:hover {
     background: #e0e0e0;
 }
+
+.btn {
+    text-decoration: none; color: #000;
+}
